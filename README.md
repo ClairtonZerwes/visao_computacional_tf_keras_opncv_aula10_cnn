@@ -55,7 +55,7 @@ Para rodar este projeto em sua máquina, siga os passos abaixo:
 2.  **Execute o script Python:**
     ```bash
     python atividade1_Aula10_CNN.ipynb
-    *Executado no ambiente do Google Colab
+    * Executado no ambiente do Google Colab
     ```
 
 ---
